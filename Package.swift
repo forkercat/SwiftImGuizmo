@@ -7,7 +7,7 @@ var package = Package(
         .library(name: "ImGuizmo", targets: ["ImGuizmo"])
     ],
     dependencies: [
-        .package(name: "ImGui", url: "https://github.com/ctreffs/SwiftImGui.git", .revision("b0f848e34d44fa0c9ad6082641d4793f30073e8d")),
+        .package(name: "ImGui", url: "https://github.com/forkercat/SwiftImGui.git", .branch("update-1.86-docking")),
     ],
     targets: [
         .target(name: "ImGuizmo", dependencies: [.byName(name: "CImGuizmo")]),

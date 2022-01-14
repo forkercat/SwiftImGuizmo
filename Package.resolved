@@ -3,10 +3,10 @@
     "pins": [
       {
         "package": "ImGui",
-        "repositoryURL": "https://github.com/ctreffs/SwiftImGui.git",
+        "repositoryURL": "https://github.com/forkercat/SwiftImGui.git",
         "state": {
-          "branch": null,
-          "revision": "b0f848e34d44fa0c9ad6082641d4793f30073e8d",
+          "branch": "update-1.86-docking",
+          "revision": "336ee0c6649149a2199dc44b7c5f8e5ca1fc0abd",
           "version": null
         }
       }
